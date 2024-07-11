@@ -1,0 +1,90 @@
+.div{
+    text-align: center;
+}
+
+form{
+    background-color: rgb(41, 40, 32);
+    
+}
+
+h2{
+    
+    color: rgb(243, 243, 238);
+    background-color: rgba(236, 233, 56, 0.408);
+}
+
+.first-name{
+    
+    color:yellow;
+   
+}
+
+.last-name{
+    color: yellow;
+ 
+}
+
+.dob{
+    color: yellow;
+}
+
+/*.Gender{
+
+    color: yellow;
+}
+
+
+.Male {
+    color: yellow;
+}
+
+.Female{
+    color: yellow;
+}*/
+
+.Gender, .Male, .Female {
+    color: yellow;
+   
+   
+}
+
+.country{
+    color: yellow;
+}
+
+.Email{
+    color: yellow;
+}
+
+.phone{
+    color: yellow;
+}
+
+.password{
+    color: yellow;
+
+}
+
+.conform-password{
+
+    color: yellow;
+}
+
+.agree{
+
+    color: yellow;
+}
+   
+.button{
+
+    background-color: green;
+}   
+
+.form-form{
+    background-color: rgba(236, 233, 56, 0.408);
+    text-align: end;
+}
+
+.button-button{
+    background-color: red;
+}
